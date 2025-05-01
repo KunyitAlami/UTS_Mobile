@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">UTS_Mobile_biografi_mahasiswa</string>
+    <string name="nama">Nama Lengkap : Ghani Mudzakir</string>
+    <string name="jurusan">Jurusan : Teknologi Informasi</string>
+    <string name="nim">NIM :  2310817110011</string>
+    <string name="semester">Semester : 4</string>
+    <string name="instagram">Akun Instagram : @ghanimdzkr</string>
+    <string name="github">Akun Github :  KunyitAlami</string>
+    <string name="linkedin">Akun Linkedin : Ghani Mudzakir</string>
+    <string name="button_info_lengkap">Biografi Detail</string>
+
+
+    <string name="hobi">Hobi: Menulis, Bermusik, dan Berorganisasi</string>
+    <string name="cita_cita">Cita-cita: Menjadi Machine Learning Engineer di Bidang Oil and Gas</string>
+    <string name="biografi">Nama saya Ghani Mudzakir, mahasiswa aktif dari Program Studi Teknologi Informasi, Fakultas Teknik, Universitas Lambung Mangkurat. Saat ini saya berada di semester empat dan terus bersemangat dalam mengejar ketertarikan saya di dunia teknologi. Saya lahir di Banjarmasin pada tanggal 30 Agustus 2005 dan saat ini tinggal di Banjarmasin. Sejak kecil saya memiliki minat besar terhadap teknologi dan kreativitas yang saya salurkan melalui hobi membaca, ngoding, dan bermain gitar.\n\n
+    Dalam perjalanan akademik saya, saya mengembangkan keahlian di bidang pengembangan aplikasi Android menggunakan Kotlin dan XML, pengembangan web dengan HTML, CSS, dan JavaScript, serta mulai mengeksplorasi dunia machine learning serta deep learning. \n\n
+    Saya ingin menjadi seorang Machine Learning Engineer di dunia Oil and Gas yang tidak hanya mahir secara teknis, tetapi juga mampu memberikan dampak sosial melalui teknologi, terutama dalam sektor pendidikan dan sosial masyarakat. Bagi saya, teknologi bukan hanya sekadar alat, tapi jembatan yang mampu menghubungkan ide dan solusi nyata. Melalui semangat belajar yang tinggi dan motivasi untuk terus berkembang, saya berkomitmen untuk menjadi bagian dari perubahan positif di era digital ini.\n\n
+    </string>
+
+
+
+
+
+
+</resources>
